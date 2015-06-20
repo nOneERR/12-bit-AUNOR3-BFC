@@ -8,5 +8,7 @@ ATMega 328P-PU is 8-bit processing device. This script makes it possible to outp
 crack - begin brute-force cracking
 
 custom delay - set custom delay in ms
+
 verbose - verbose output 
+
 help - display help
