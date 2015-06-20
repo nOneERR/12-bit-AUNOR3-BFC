@@ -5,7 +5,8 @@
 ATMega 328P-PU is 8-bit processing device. This script makes it possible to output 12-bit number over digital I/O Pins. It also features Serial control.
 
 # Serial Control - commands
-crack - begin brute-force cracking \n
+crack - begin brute-force cracking
+
 custom delay - set custom delay in ms
 verbose - verbose output 
 help - display help
